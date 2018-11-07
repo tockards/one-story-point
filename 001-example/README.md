@@ -13,3 +13,17 @@
 ## Requirement from Scrum practices Document. 
 
 - Using a console application, take a command line parameter, use it to query an existing database to get a return value, and present it to the user. Develop a unit test, and integration test, review the code, and merge the code.
+
+## Details 
+
+- Programming
+  - Python3 standard library
+  - argparse for cmd arguments
+- Database 
+  - SQLite
+
+
+## Notes
+
+- Is infrastructure there already?
+- What are the assumptions surrounding architecture and coding guidelines.

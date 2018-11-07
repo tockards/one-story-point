@@ -25,5 +25,7 @@
 
 ## Notes
 
-- Is infrastructure there already?
-- What are the assumptions surrounding architecture and coding guidelines.
+- What are the assumptions surrounding including in the story.
+- Is infrastructure there already and working(How does this effect the estimation)?
+- Should the Definition of Done not be added to the story?
+
